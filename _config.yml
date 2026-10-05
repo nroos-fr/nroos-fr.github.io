@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Nathan Roos"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Nathan Roos"
 description              : &description "Nathan Roos' academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,7 +25,7 @@ author:
   avatar           : "square_crop.png"
   name             : "Nathan Roos"
   pronouns         : # example: "she/her"  
-  bio              : "ML / applied maths master student"
+  bio              : "ML / applied maths research master student"
   location         : "Paris, France"
   employer         : "ENS Paris-Saclay & Télécom Paris"
   uri              : # URL
